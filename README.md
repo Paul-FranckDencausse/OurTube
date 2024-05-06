@@ -12,7 +12,7 @@ Ce widget représente un lecteur vidéo YouTube dans une application mobile Flut
 
 ## Captures d'écran
 
-![Capture d'écran du lecteur vidéo YouTube](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+![Capture d'écran du lecteur vidéo YouTube](https://images.everyeye.it/img-notizie/ia-never-gonna-give-you-up-rick-astley-trionfale-remaster-4k-v6-500421.jpg)
 
 ## Utilisation
 
