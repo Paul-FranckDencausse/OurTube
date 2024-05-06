@@ -12,7 +12,7 @@ Ce widget représente un lecteur vidéo YouTube dans une application mobile Flut
 
 ## Captures d'écran
 
-![Capture d'écran du lecteur vidéo YouTube](screenshot.png)
+![Capture d'écran du lecteur vidéo YouTube]((https://www.youtube.com/watch?v=dQw4w9WgXcQ))
 
 ## Utilisation
 
